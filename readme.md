@@ -34,6 +34,10 @@ This file contains the saved XGBoost model, which has been trained on the custom
 - **Data Access**: Unfortunately, the dataset used in this project cannot be shared due to privacy and confidentiality reasons. However, you can review the code to understand the data processing and model training steps.
 - **Code Access**: The project code is available in the files mentioned above. You can run the Streamlit application and Jupyter Notebook to explore the functionality and performance of the models.
 
+## Data Source
+
+This model is based on data provided by Maktabkhooneh. The project is one of the final projects I have completed to obtain a certificate in machine learning from Maktabkhooneh.
+
 ## Getting Started
 
 To get started with the project:
