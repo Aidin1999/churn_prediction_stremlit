@@ -11,7 +11,7 @@ The Churn Prediction Project aims to predict whether a customer is likely to lea
 
 ## Files
 
-### 1. `p2_streamlit.py`
+### 1. `streamlit.py`
 
 This Python file contains the Streamlit web application code. It allows users to:
 - Input various customer features such as Credit Score, Tenure, Balance, etc.
@@ -50,3 +50,7 @@ For further assistance or questions, feel free to reach out!
 ---
 
 Feel free to adjust or add any details based on your project's specific requirements or additional information you may want to include.
+
+**Project by:** Aidin Miralmasi
+
+**Certificate:** Matbakhonneh
